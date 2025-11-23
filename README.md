@@ -32,16 +32,4 @@ FitLife Glow is a clean, modern responsive website designed around fitness, well
 - Deployed via static host (Netlify or GitHub Pages)  
 - Git + GitHub for version control  
 
-## Getting Started  
-
-### Prerequisites  
-- Node.js (version 14+ recommended)  
-- npm or yarn package manager  
-- Git for version control  
-
-### Installation  
-```bash
-git clone https://github.com/Rudra-AI-2127/fitlife-glow.git
-cd fitlife-glow
-npm install   # or yarn install
 
